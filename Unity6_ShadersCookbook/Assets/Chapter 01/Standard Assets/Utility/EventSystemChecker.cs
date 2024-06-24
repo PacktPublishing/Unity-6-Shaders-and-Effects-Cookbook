@@ -10,7 +10,7 @@ public class EventSystemChecker : MonoBehaviour
 	// Use this for initialization
 	void Awake ()
 	{
-	    if(!FindObjectOfType<EventSystem>())
+	    if(!GameObject.FindFirstObjectByType<EventSystem>())
         {
            //Instantiate(eventSystem);
             GameObject obj = new GameObject("EventSystem");
