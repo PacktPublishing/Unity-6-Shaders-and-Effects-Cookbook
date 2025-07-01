@@ -116,7 +116,6 @@ By the end of this book, you will have a diverse repertoire of shaders to integr
 
 <p><em>If you are using the digital version of this book, we advise you to type the code yourself or access the code via the GitHub repository (link available in the next section). Doing so will help you avoid any potential errors related to the copying and pasting of code.</em></p>
 
-<p><em>Note that the author acknowledges the use of cutting-edge AI, such as ChatGPT, with the sole aim of enhancing the language and clarity within the book, thereby ensuring a smooth reading experience for readers. It’s important to note that the content itself has been crafted by the author and edited by a professional publishing team.</em></p>
 
 </details>
     
