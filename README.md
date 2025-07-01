@@ -87,23 +87,36 @@ By the end of this book, you will have a diverse repertoire of shaders to integr
 
 
 <details open> 
-  <summary><h2>Requirements for this book</summary>
-To get the most out of this book, you should have experience working with Unity and some scripting knowledge (C# is fine). While no prior experience with shaders is required, familiarity with Unity’s rendering system will help you grasp the concepts more easily.  
-This book is written using Unity Editor version 6 Preview 6000.0.7f1, but the techniques covered should work with future versions of Unity with only minor adjustments.
+  <summary><h2>Requirements for this book</h2></summary>
+
+<p>To get the most out of this book, you should have experience working with Unity and some scripting knowledge (C# is fine). While no prior experience with shaders is required, familiarity with Unity’s rendering system will help you grasp the concepts more easily.</p>
+
+<p>This book is written using Unity Editor version 6 Preview 6000.0.7f1, but the techniques covered should work with future versions of Unity with only minor adjustments.</p>
 
 <br>
 
-| Software/hardware covered in the book | OS requirements                        |
-|---------------------------------------|----------------------------------------|
-| Unity 6000.0.7f1                      | Windows, macOS, or Linux (any)         |
+<table>
+  <thead>
+    <tr>
+      <th>Software/hardware covered in the book</th>
+      <th>OS requirements</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Unity 6000.0.7f1</td>
+      <td>Windows, macOS, or Linux (any)</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
-If you need to access older versions of Unity for compatibility reasons, you can download them from the Unity download archive: https://unity.com/releases/editor/archive.
+<p>If you need to access older versions of Unity for compatibility reasons, you can download them from the Unity download archive: <a href="https://unity.com/releases/editor/archive">https://unity.com/releases/editor/archive</a>.</p>
 
-*If you are using the digital version of this book, we advise you to type the code yourself or access the code via the GitHub repository (link available in the next section). Doing so will help you avoid any potential errors related to the copying and pasting of code.*
+<p><em>If you are using the digital version of this book, we advise you to type the code yourself or access the code via the GitHub repository (link available in the next section). Doing so will help you avoid any potential errors related to the copying and pasting of code.</em></p>
 
-*Note that the author acknowledges the use of cutting-edge AI, such as ChatGPT, with the sole aim of enhancing the language and clarity within the book, thereby ensuring a smooth reading experience for readers. It’s important to note that the content itself has been crafted by the author and edited by a professional publishing team.*
+<p><em>Note that the author acknowledges the use of cutting-edge AI, such as ChatGPT, with the sole aim of enhancing the language and clarity within the book, thereby ensuring a smooth reading experience for readers. It’s important to note that the content itself has been crafted by the author and edited by a professional publishing team.</em></p>
 
 </details>
     
