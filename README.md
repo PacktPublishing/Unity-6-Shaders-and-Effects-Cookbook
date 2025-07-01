@@ -134,9 +134,9 @@ For over a decade, John has gained extensive hands-on expertise in game developm
   <summary><h2>Other Related Books</h2></summary>
 <ul>
 
-  <li><a href="https://www.packtpub.com/en-us/product/learning-design-patterns-with-unity-first-edition/9781805120285">Learning Design Patterns with Unity, First Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/learning-design-patterns-with-unity-first-edition-9781805120285">Learning Design Patterns with Unity, First Edition</a></li>
 
-  <li><a href="https://www.packtpub.com/en-us/product/learning-c-by-developing-games-with-unity-seventh-edition/9781837636877">Learning C# by Developing Games with Unity, Seventh Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/learning-c-by-developing-games-with-unity-seventh-edition-9781837636877">Learning C# by Developing Games with Unity, Seventh Edition</a></li>
  
 </ul>
 
